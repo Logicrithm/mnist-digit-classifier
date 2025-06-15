@@ -1,10 +1,6 @@
-# 🧠 MNIST Digit Classifier Web App
+# 🧠 MNIST Digit Classifier
 
 A simple Deep Learning project that uses a trained neural network to recognize handwritten digits from uploaded images. Built using **Keras**, **TensorFlow**, and **Streamlit**.
-
-![App Screenshot](sample_screenshot.png)
-
----
 
 ## 📌 Features
 
@@ -12,14 +8,6 @@ A simple Deep Learning project that uses a trained neural network to recognize h
 - Deep learning model predicts the digit with confidence scores
 - Web interface built with Streamlit
 - Trained on the classic MNIST dataset
-
----
-
-## 🚀 Try the App
-
-👉 **Live Demo**: [Click to Try (your link will go here)](#)
-
----
 
 ## 🛠 Technologies Used
 
